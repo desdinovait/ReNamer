@@ -1,0 +1,61 @@
+{\rtf1\ansi\deff0\deftab720{\fonttbl{\f0\fnil\charset0 Arial;}
+{\f1\fnil\charset1 Times New Roman;}{\f2\fnil\charset1 Symbol;}{\f3\fnil\charset1 Courier New;}{\f4\fnil\charset1 Wingdings;}}
+{\colortbl\red0\green0\blue0;\red255\green0\blue0;\red0\green128\blue0;\red0\green0\blue255;\red255\green255\blue0;\red255\green0\blue255;\red128\green0\blue128;\red128\green0\blue0;\red0\green255\blue0;\red0\green255\blue255;\red0\green128\blue128;\red0\green0\blue128;\red255\green255\blue255;\red192\green192\blue192;\red128\green128\blue128;}
+\paperw12240\paperh15840\margl1273\margr1273\margt1417\margb1134{\sb100\sl-240\sa100 \plain\f0\fs20\cf0 {\cs16\super #{\*\footnote \pard\plain \s15\widctlpar \f4\fs20\lang1031 {\cs16\super #} Topic1}}\plain\f0\fs26\cf0\b Copyright, Licensing, Trademarks, Warranty, Etc.\par
+\plain\f0\fs20\cf0 This software product is copyright (c) 2000-2001 StormSoftX. All rights reserved. All title and c\plain\f0\fs20\cf0 opyrights in and to the software product (including but not limited to any images, animations, an\plain\f0\fs20\cf0 d text incorporated into the software product) are owned by StormSoftX. The software product is p\plain\f0\fs20\cf0 rotected by copyright laws and international treaty provisions. Therefore, you must treat the sof\plain\f0\fs20\cf0 tware product like any other copyrighted material.\line Once the user registers this software, the use\plain\f0\fs20\cf0 r is restricted to the use of a single copy on only a single personal computer or workstation whi\plain\f0\fs20\cf0 ch is not used as a server. The user is restricted from modifying or copying the software, except\plain\f0\fs20\cf0  that the user may make one copy solely for backup or archival purposes.\line \par
+\plain\f0\fs20\cf0\b ReNamer\plain\f0\fs20\cf0  is a trademark of StormSoftX.\line Windows and Video for Windows is a trademarks of Microsoft \plain\f0\fs20\cf0 Corporation.\line Netscape Navigator is a trademark of Netscape Communications Corporation.\line \par
+\par
+\page \plain\f0\fs20\cf0 {\cs16\super #{\*\footnote \pard\plain \s15\widctlpar \f4\fs20\lang1031 {\cs16\super #} Topic2}}\plain\f0\fs26\cf0\b Disclaimer of Warranty\par
+\plain\f0\fs20\cf0 THIS SOFTWARE AND THE ACCOMPANYING FILES ARE PROVIDED "AS IS" AND WITHOUT WARRANTIES AS TO PERFOR\plain\f0\fs20\cf0 MANCE OF MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. Because of the var\plain\f0\fs20\cf0 ious hardware and software environments into which this software may be put, NO WARRANTY OF FITNE\plain\f0\fs20\cf0 SS FOR A PARTICULAR PURPOSE IS OFFERED.\line Good data processing procedure dictates that any program \plain\f0\fs20\cf0 be thoroughly tested with non-critical data before relying on it. The user must assume the entire\plain\f0\fs20\cf0  risk of using the program. ANY LIABILITY OF THE SELLER WILL BE LIMITED EXCLUSIVELY TO PRODUCT RE\plain\f0\fs20\cf0 PLACEMENT OR REFUND OF PURCHASE PRICE.\par
+\page \plain\f0\fs20\cf0 {\cs16\super #{\*\footnote \pard\plain \s15\widctlpar \f4\fs20\lang1031 {\cs16\super #} Topic3}}\plain\f0\fs26\cf0\b How to use...\par
+\plain\f0\fs20\cf0 Coming soon!\par
+\page \sb0\sl\sa0 \plain\f0\fs20\cf0 {\cs16\super #{\*\footnote \pard\plain \s15\widctlpar \f4\fs20\lang1031 {\cs16\super #} Topic4}}\par
+\qc\plain\f0\fs26\cf0\b \{bmc Title.BMP\}\par
+\ql\par
+\qc\plain\f0\fs28\cf0\b CREDITS\par
+\par
+\plain\f0\fs22\cf1 A Production:\par
+\plain\f0\fs22\cf3\b StormSoftX\plain\f0\fs22\cf3 ...like your dreams\par
+\par
+\plain\f0\fs22\cf1 Lead Programmer:\par
+\plain\f0\fs22\cf0 Duff\par
+\par
+\plain\f0\fs22\cf1 A Production:\par
+\plain\f0\fs22\cf0 Duff\par
+\plain\f0\fs22\cf0 Poxe\par
+\par
+\plain\f0\fs22\cf1 Help programmer:\par
+\plain\f0\fs22\cf0 Poxe\par
+\par
+\plain\f0\fs22\cf1 Software concept:\par
+\plain\f0\fs22\cf0 TMFCommunications\par
+\par
+\plain\f0\fs22\cf1 Tester:\par
+\plain\f0\fs22\cf0 Tuna (TMFCommunications)\par
+\par
+\plain\f0\fs22\cf1 Thanks to:\par
+\plain\f0\fs22\cf0 Tuna\par
+\plain\f0\fs22\cf0 Poxe\par
+\par
+\plain\f0\fs22\cf1 Special thanks to:\par
+\plain\f0\fs22\cf0 Tommy\par
+\par
+\plain\f0\fs22\cf1 Very special thanks to:\par
+\plain\f0\fs22\cf0 Mondo\par
+\page \ql\sb100\sl-240\sa100 \plain\f0\fs20\cf0 {\cs16\super #{\*\footnote \pard\plain \s15\widctlpar \f4\fs20\lang1031 {\cs16\super #} Topic5}}\plain\f0\fs20\cf0 {\cs16\super ${\*\footnote \pard\plain \s15\widctlpar \f4\fs20\lang1031 {\cs16\super $} Software requirment}}\plain\f0\fs26\cf0\b Hardware & Software Requirements\par
+\li720\fi-360\ri0 \plain\f2\fs20\cf0 \'b7\tab \plain\f0\fs20\cf0 Pentium or AMD processor at 75Mhz or better\par
+\plain\f2\fs20\cf0 \'b7\tab \plain\f0\fs20\cf0 16Mb Ram (32 for Windows 98, 128 for Windows 2000)\par
+\plain\f2\fs20\cf0 \'b7\tab \plain\f0\fs20\cf0 Hard disk space: 2Mb\par
+\plain\f2\fs20\cf0 \'b7\tab \plain\f0\fs20\cf0 ReNamer requires Windows 95, 98, NT 4.x or 2000. \par
+\plain\f2\fs20\cf0 \'b7\tab \plain\f0\fs20\cf0 When using Windows NT or Windows 2000, you must be Administrator to use ReNamer. \par
+\plain\f2\fs20\cf0 \'b7\tab \plain\f0\fs20\cf0 When using Windows NT, you must have at least Service Pack 4 installed. \par
+\plain\f2\fs20\cf0 \'b7\tab \plain\f0\fs20\cf0 It is highly recommended to get the newest version of HHUPD.EXE (HTML-Help Update) from Microso\plain\f0\fs20\cf0 ft. You can download the HTML-Help update from Microsoft's Website at\plain\f2\fs20\cf0 \tab \plain\f0\fs20\cf0\ul http://msdn.microsoft.com/l\plain\f0\fs20\cf0\ul ibrary/tools/htmlhelp/wkshp/hhupd.exe\plain\f0\fs20\cf0 . \par
+\page \li0\fi0\ri0\sb0\sl\sa0 \plain\f0\fs20\cf0 {\cs16\super #{\*\footnote \pard\plain \s15\widctlpar \f4\fs20\lang1031 {\cs16\super #} Topic6}}\par
+\page \plain\f0\fs20\cf0 {\cs16\super #{\*\footnote \pard\plain \s15\widctlpar \f4\fs20\lang1031 {\cs16\super #} Topic7}}\par
+\page \sb100\sl-240\sa100 \plain\f0\fs20\cf0 {\cs16\super #{\*\footnote \pard\plain \s15\widctlpar \f4\fs20\lang1031 {\cs16\super #} Topic8}}\plain\f0\fs26\cf0\b StormSoft ReNamer Introduction:\par
+\par
+\plain\f0\fs20\cf0 StormSoft ReNamer is a program that allows you to rename files in numeric order.\par
+\plain\f0\fs20\cf0 You can define the name, total index and the initial number of the matrix\par
+\par
+\plain\f0\fs20\cf0 Continue. Coming soon...}
+}

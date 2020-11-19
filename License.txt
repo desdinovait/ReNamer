@@ -1,0 +1,5 @@
+No warranty:
+
+ReNamer is sold "as is" and without any warranty as to merchantability or fitness for a particular purpose or any other warranties either expressed or implied.
+
+The author will not be liable for data loss, damages, loss of profits or any other kind of loss while using or misusing this software.
